@@ -1,3 +1,4 @@
+```mermaid
 graph LR
     User((온라인 뱅킹 사용자))
     BankSystem[[외부 은행 시스템]]
